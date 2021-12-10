@@ -1,0 +1,12 @@
+Javascript Yang Diimprovekan:
+  - Type data
+  - Array
+  - looping
+  - json
+  - functions
+  - DOM
+  - API
+  - AJAX
+  - JQUERY
+  - js BOM
+  - ......
