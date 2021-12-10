@@ -1,5 +1,8 @@
 Javascript Yang Diimprovekan:
   - Type data
+     + Object
+     + string
+     + boolean
   - Array
   - looping
   - json
